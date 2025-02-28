@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545808759767",
+    "project_id": "sy-sem-2-mazoor-katta",
+    "storage_bucket": "sy-sem-2-mazoor-katta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545808759767:android:7876914e60029d89d86992",
+        "android_client_info": {
+          "package_name": "com.example.edi_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545808759767-nt7fm47kmephalv2rqvj233r6lb4d2hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpAzxO9aw5uXtH2vmcLaTyjgZ1onNL5UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545808759767-nt7fm47kmephalv2rqvj233r6lb4d2hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
